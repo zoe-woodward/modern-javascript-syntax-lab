@@ -16,3 +16,16 @@ console.log(doubledNums);
 
 
 
+//let pizza = 'tasty';
+
+//if (pizza === 'tasty') {
+ // console.log('yum');
+//} else {
+ // console.log('yuck');
+//}
+
+// Your code here
+
+let pizza = 'tasty';
+
+pizza === 'tasty' ? console.log('yum') : console.log('yuck');
